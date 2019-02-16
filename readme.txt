@@ -1,2 +1,1 @@
-松软哦首个
-十分可怕
+Git is a distributed version control system.
